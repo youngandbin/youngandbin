@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 <!--
-**youngandbin/youngandbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building Deep Research and Long Writer multi-agent systems at the Elice AI Team, focusing on RAG and automated research pipelines.
+- 🌱 I’m currently learning advanced optimization for vLLM and scaling multi-agent orchestrations using LangGraph.
+- 👯 I’m looking to collaborate on open-source LLM benchmarking, quantitative finance research, or any projects involving Black-Litterman portfolio models.
+- 🤔 I’m looking for help with efficient training and serving strategies for 100B+ parameter models on multi-GPU clusters.
+- 💬 Ask me about AI Agents, FastAPI backend architecture, Python environment management with uv, and the intersection of LLMs and Quantitative Finance.
+- 📫 How to reach me: via LinkedIn ([**youngandbin**](https://www.linkedin.com/in/youngandbin))
+- ⚡ Fun fact: I follow a longevity-focused lifestyle inspired by Bryan Johnson's "Blueprint" project—tracking everything from metabolic data to sleep cycles while building AI.
 -->
+
+### 📈 GitHub Stats
+![Youngbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungbinLee&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungbinLee&layout=compact&theme=transparent)
