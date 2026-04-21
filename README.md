@@ -9,7 +9,3 @@
 - 📫 How to reach me: via LinkedIn ([**youngandbin**](https://www.linkedin.com/in/youngandbin))
 - ⚡ Fun fact: I follow a longevity-focused lifestyle inspired by Bryan Johnson's "Blueprint" project—tracking everything from metabolic data to sleep cycles while building AI.
 -->
-
-### 📈 GitHub Stats
-![Youngbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungbinLee&show_icons=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungbinLee&layout=compact&theme=transparent)
